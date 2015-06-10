@@ -1,5 +1,5 @@
 === CODN Gateway for WP e-Commerce ===
-Contributors: CODN Development Team
+Contributors: codnusantara.com Development Team
 Tags: codn,codn gateway, merchant, payment gateway, wpec, wp e-commerce, e-commerce
 Requires at least: 3.9
 Tested up to: 3.9
